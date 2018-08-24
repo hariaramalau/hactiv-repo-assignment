@@ -1,0 +1,29 @@
+.title {
+  font-size: 50px;
+  color: pink;
+  background-color: black;
+  text-align: center;
+  border: 4px dotted blue;
+}
+
+h1 {
+  color: yellow;
+  border: 2px solid green;
+  background-color: darkolivegreen;
+}
+
+h2 {
+  color: lightseagreen;
+  border: 1px dotted pink;
+  background-color: darkred;
+}
+
+ul {
+  background-color: black;
+  float: right;
+}
+
+li {
+  font-size: 30px;
+  color: pink;
+}
